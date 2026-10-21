@@ -1,0 +1,30 @@
+console.log("hello world");
+let firstName = "zayed";
+console.log(firstName);
+firstName = "omar";
+console.log(firstName);
+firstName = "ahmed";
+console.log(firstName);
+const lastName = "ali";
+console.log(lastName);
+const aName = "zayed";
+console.log(aName);
+console.log(aName);
+let x = "monday";
+console.log(x);
+x="tuesday";
+console.log(x);
+x = 70;
+console.log(typeof x);
+let y = "zayed";
+console.log(typeof y);
+// console.log("hello");---COMMENT---
+let theName = "zayed";
+console.log(theName);
+theName = "zayood";
+console.log(theName);
+const email = "zayed@example.com";
+console.log(email);
+const Email = "zayood@example.com";
+console.log(Email);
+
